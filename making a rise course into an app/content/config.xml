@@ -1,3 +1,6 @@
+<widget id="HTMARC" version="0.1.9">
+
+
      <platform name="android">
               <name>Making a Rise Course into an App</name>
               <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
@@ -6,3 +9,4 @@
               <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
      </platform>
+     </widget>
