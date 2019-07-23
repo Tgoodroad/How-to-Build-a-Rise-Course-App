@@ -9,19 +9,6 @@
               <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
 
-			  <splash src="res/mipmap-mdpi/SS_mdpi.png" density="mdpi"/>
-              <splash src="res/mipmap-mdpi/SS_mdpi.png" density="land-mdpi"/>
-              <splash src="res/mipmap-xhdpi/SS_xhdpi.png" density="land-xhdpi"/>
-              <splash src="res/mipmap-xxhdpi/SS_xxhdpi" density="land-xxhdpi"/>
- 			  <splash src="res/mipmap-xxxhdpi/SS_xxxhdpi" density="land-xxxhdpi"/>
-
-
-              <splash src="res/mipmap-xhdpi/SS_xhdpi.png" density="port-hdpi"/>
-              <splash src="res/mipmap-mdpi/SS_mdpi.png" density="port-mdpi"/>
-              <splash src="res/mipmap-xhdpi/SS_xhdpi.png" density="port-xhdpi"/>
-              <splash src="res/mipmap-xxhdpi/SS_xxhdpi" density="port-xxhdpi"/>
-	          <splash src="res/mipmap-xxxhdpi/SS_xxxhdpi" density="port-xxxhdpi"/>
-	          
      </platform>
      <plugin name="cordova-plugin-file-transfer" spec="~1.7.1" />
      <plugin name="cordova-plugin-file" spec="~6.0.2" />
