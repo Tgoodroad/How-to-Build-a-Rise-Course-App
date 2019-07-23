@@ -10,7 +10,5 @@
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
 
      </platform>
-     <plugin name="cordova-plugin-file-transfer" spec="~1.7.1" />
-     <plugin name="cordova-plugin-file" spec="~6.0.2" />
-     <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
+
      </widget>
