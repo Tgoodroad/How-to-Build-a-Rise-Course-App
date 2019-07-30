@@ -4,6 +4,11 @@
 
      <platform name="android">
               <name>Making a Rise Course into an App</name>
+               <description>
+              A Rise Course Reference Guide 
+              </description>
+			  <author> Travis Goodroad
+	          </author>
               <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
               <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
               <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
