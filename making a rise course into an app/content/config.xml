@@ -9,11 +9,11 @@
               </description>
 			  <author> Travis Goodroad
 	          </author>
-              <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
-              <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
-              <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
-              <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
-			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+              <icon src="res/mipmap-mdpi/mdpi.png" density="mdpi" />
+              <icon src="res/mipmap-hdpi/hdpi.png" density="hdpi" />
+              <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
+              <icon src="res/mipmap-xxhdpi/xxhdpi.png" density="xxhdpi" />
+			  <icon src="res/mipmap-xxxhdpi/xxxhdpi.png" density="xxxhdpi" />
               <splash src="res/splash.png" />
      </platform>
 
