@@ -2,14 +2,15 @@
 <widget id="Example.Id" version="0.3.4">
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
 <preference name="phonegap-version" value="cli-9.0.0" />
-     <platform name="android">
-              <name>Put App Title Here</name>
+           
+           <name>Put App Title Here</name>
                <description>
               Discription goes here 
               </description>
-			  <author> Your name goes here
-	          </author>
+        <author> Your name goes here
+            </author>
 
+     <platform name="android">
               <icon src="res/mipmap-mdpi/mdpi.png" density="mdpi" />
               <icon src="res/mipmap-hdpi/hdpi.png" density="hdpi" />
               <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
